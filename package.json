@@ -1,0 +1,28 @@
+{
+  "name": "adventofcode2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "null",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexshisuper/adventofcode2023.git"
+  },
+  "author": "Alex Shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexshisuper/adventofcode2023/issues"
+  },
+  "homepage": "https://github.com/alexshisuper/adventofcode2023#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.5"
+  }
+}
